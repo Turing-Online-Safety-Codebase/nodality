@@ -2,6 +2,8 @@
 
 This is the repository with all the publicly available* data and analysis scripts for the research paper: ["Who is driving the conversation? Studying the nodality of British MPs and journalists on Twitter"](https://arxiv.org/abs/2402.08765).
 
+*: Twitter data is made available in accordance with Twitter’s terms of service.
+
 ## Index
 - 1. [Installation](#1-installation)
 - 2. [Data](#2-data)
