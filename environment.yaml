@@ -1,0 +1,25 @@
+name: nodality
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+
+# Core Python
+ - numpy
+ - tqdm
+ - pandas
+ - jupyterlab
+ - notebook
+ - ipykernel
+ - networkx
+
+ # Stats and ML
+ - statsmodels
+ - sklearn
+
+# Plotting
+ - matplotlib
+ - seaborn
